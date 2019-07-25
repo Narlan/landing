@@ -1,0 +1,20 @@
+.footer {
+  height: 400px;
+  background-color: #2b1918;
+  margin-top: 80px;
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+}
+
+.footer-icons {
+  display: block;
+  font-size: 50px;
+  margin: 0 20px 0 20px;
+  padding-top: 100px;
+}
+
+.footer-icons i {
+  color: #8733a6;
+  margin: 0 10px 0 10px;
+}
